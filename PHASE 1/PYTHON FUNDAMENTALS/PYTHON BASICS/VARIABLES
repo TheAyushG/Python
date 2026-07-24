@@ -1,4 +1,15 @@
 PYTHON FUNDAMENTALS / PYTHON BASICS / VARIABLES
+- Variables
+- Data Types (int, float, str, bool, None)
+- Operators
+- Input & Output
+- Type Casting
+- Strings
+- Lists
+- Tuples
+- Sets
+- Dictionaries
+
 
 print("hello world!")
 # print("hello world!")
