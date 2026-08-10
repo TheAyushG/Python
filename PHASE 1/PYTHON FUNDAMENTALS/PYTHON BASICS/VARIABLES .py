@@ -1,4 +1,4 @@
-PYTHON FUNDAMENTALS / PYTHON BASICS / VARIABLES .
+PYTHON FUNDAMENTALS / PYTHON BASICS / VARIABLES ..
 - Variables
 - Data Types (int, float, str, bool, None)
 - Operators
