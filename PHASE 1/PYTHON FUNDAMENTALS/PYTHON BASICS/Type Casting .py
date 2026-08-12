@@ -1,4 +1,4 @@
-***************** Type casting is the process of manually converting one data type into another data type. ******************
+***************** Type casting is the process of manually converting one data type into another data type. ********************
 
 
 
