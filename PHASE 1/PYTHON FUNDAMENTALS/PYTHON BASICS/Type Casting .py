@@ -1,6 +1,6 @@
 ***************** Type casting is the process of manually converting one data type into another data type. ********************
 
-
+**
 
 ---> if we write this code like this then it will give us a error becasue we are adding 1 in a stirng, so we can't add string and a number 
 f = "6"
